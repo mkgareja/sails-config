@@ -1,0 +1,3 @@
+# sails-config
+
+Installation
